@@ -1,1 +1,3 @@
-# Pages site publishing template
+# CLIPS documentation site
+
+https://hello.nickmain.com/clips/

@@ -1,5 +1,5 @@
 ---
-title: Site Template
+title: CLIPS Rules
 aliases:
   - Home
 ---

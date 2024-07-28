@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
          <p>© {year} David N Main. See the&nbsp;
-           <a href="https://hello.nickmain.com/r7rs/License" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+           <a href="https://hello.nickmain.com/clips/License" rel="license noopener noreferrer" style="display:inline-block;">
            license page
            </a>.
          </p>
